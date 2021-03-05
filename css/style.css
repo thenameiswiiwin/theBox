@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+:root {
+	--clr-icons: ;
+	--clr-text: #fff;
+	--clr-bg-dark: #242424;
+	--clr-bg-light: #3b3b3b;
+	--clr-accent: #ff7600;
+	--ff-primary: 'Poppins', sans-serif;
+}
